@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.5e0511c2.js",
-    "index.html": "/index.html",
-    "main.5e0511c2.js.map": "/static/js/main.5e0511c2.js.map"
+    "main.js": "/cryp_deploy/static/js/main.bc117a8a.js",
+    "index.html": "/cryp_deploy/index.html",
+    "main.bc117a8a.js.map": "/cryp_deploy/static/js/main.bc117a8a.js.map"
   },
   "entrypoints": [
-    "static/js/main.5e0511c2.js"
+    "static/js/main.bc117a8a.js"
   ]
 }
